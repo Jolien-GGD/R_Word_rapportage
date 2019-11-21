@@ -1,4 +1,4 @@
-# R_Word_rapportage
+# Word rapportages vullen met R
 Script waarin met behulp van de officer package een Word document wordt gevuld. In het Word template kan gewerkt worden met bijvoorbeeld 
 plaatjes in de koptekst, paginanummering, opmaak, en tekst in kolommen. Tekst komt in de vorm van:
 “Van de jongeren op uw school geeft perc_roken aan regelmatig te roken”. 
