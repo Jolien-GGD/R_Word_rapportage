@@ -1,7 +1,7 @@
 
 ### Syntax Word-template vullen met cijfers van ZJHM 
 #
-# Jolien ten Velden, najaar 2018
+# najaar 2018
 #
 # In deze syntax wordt het Word bestand dat als template dient voor de schoolrapportages voor Zeg Jij Het Maar 
 # geopend en worden vooraf aangegeven stukjes tekst (altijd een underscore bevattend) vervangen met de juiste cijfers.
